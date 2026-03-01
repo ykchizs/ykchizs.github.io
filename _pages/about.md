@@ -14,7 +14,7 @@ My research interests lie in computer vision, especially 3D computer vision.
 Publications
 ======
 **Vinedresser3D: Agentic Text-guided 3D Editing**  
-**Yankuan Chi***, Xiang Li*, Zixuan Huang, James M. Rehg  
+**Yankuan Chi**\*, Xiang Li\*, Zixuan Huang, James M. Rehg  
 CVPR2026  
 [project page](https://vinedresser3d.github.io/)
 
