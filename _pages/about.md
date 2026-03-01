@@ -17,10 +17,8 @@ Publications
 **Yankuan Chi**\*, Xiang Li\*, Zixuan Huang, James M. Rehg  
 CVPR2026  
 [project page](https://vinedresser3d.github.io/)
-<font size="2">We develop an agent for text-guided 3D editing. Vinedresser3D uses an MLLM to coordinate a set of tools to interpret editing prompts, produce delicate guidance, automatically locate the editing region and perform precise editing in the 3D latent space.</font>
 
 **3DFA: Aligning the Features Between Point Cloud and Query Image for Scene-Specific Visual Localization**  
 Sizhe Song, **Yankuan Chi**, Shuhan Zhong, S.-H. Gary Chan  
 CVPR2026 findings  
 [temporary paper](https://drive.google.com/file/d/1UTsTgwVxlR9AvJsBlD4sJtXrBMRNPRPS/view?usp=sharing)
-<font size="2">We develop a pipeline that improves feature matching-based 3D visual localization methods through enhancing the alignment of 2D and 3D features iteratively.</font>
