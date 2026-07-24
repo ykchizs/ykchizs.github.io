@@ -21,4 +21,4 @@ CVPR2026
 **3DFA: Aligning the Features Between Point Cloud and Query Image for Scene-Specific Visual Localization**  
 Sizhe Song, **Yankuan Chi**, Shuhan Zhong, S.-H. Gary Chan  
 CVPR2026 findings  
-[temporary paper](https://drive.google.com/file/d/1UTsTgwVxlR9AvJsBlD4sJtXrBMRNPRPS/view?usp=sharing)
+[link](https://cvpr.thecvf.com/virtual/2026/poster/40550)
