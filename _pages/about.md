@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yankuan Chi, an undergraduate senior student at the Hong Kong University of Science and Technology, with double majors in computer science and mathematics. In spring 2025, I was an exchange student at the University of Illinois Urbana-Champaign.
+I am Yankuan Chi, a master in computer science student at the University of California San Diego. Previously, I obtained my bachelor degree in computer science and mathematics at the Hong Kong University of Science and Technology. I was an exchange student at the University of Illinois Urbana-Champaign in spring 2025.
 
 My research interests lie in computer vision, especially 3D computer vision. I was fortunate to conduct research under the supervision of Prof. [Gary Chan](https://www.cse.ust.hk/~gchan/) at HKUST and Prof. [James Rehg](https://rehg.org/) at UIUC.
 
